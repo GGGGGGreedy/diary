@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Today is 27/02/2020
 
 It's been a week since the first diary
@@ -14,5 +15,11 @@ Oh, my God. It's really comfortable
 Next, I'm going to write a personal homepage and learn JS
 I hope I can finish my graduation project well
 This is today
+=======
+Today is 21/02/2020
+
+After a short meeting, I'm going to report my arrangement with my tutor
+Today's first project is to write a resume
+>>>>>>> 4983ad0e3eb8b7fc7fe3418385db394978fb72a5
 
 End.
